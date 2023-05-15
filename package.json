@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/UDT/",
+    "build": "vite build --base=/html_bc-55_Stepaniuk-Den/",
     "preview": "vite preview"
   },
   "devDependencies": {
